@@ -73,7 +73,7 @@ youtube_to_article/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/youtube-to-article.git
+git clone https://github.com/kusuma990/Youtube_to_Article.git
 cd youtube-to-article
 ```
 
