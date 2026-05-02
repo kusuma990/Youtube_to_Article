@@ -165,8 +165,10 @@ This project is open-source and available under the MIT License.
 
 ## 👩‍💻 Author
 
-Developed by **Kusuma Kumari**
+**Kusuma Kumari Bodduluri**
 
+- 🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri
+- 💻 GitHub: https://github.com/kusuma990/Youtube_to_Article
 ---
 
 ## ⭐ Support
